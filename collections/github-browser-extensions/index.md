@@ -5,7 +5,7 @@ items:
  - muan/github-dashboard
  - muan/github-gmail
  - thieman/github-selfies
- - Yatser/prettypullrequests
+ - brentyates/prettypullrequests
  - sanemat/do-not-merge-wip-for-github
  - jasonlong/isometric-contributions
  - ForbesLindesay/github-real-names
@@ -18,7 +18,7 @@ items:
  - zenorocha/codecopy
  - kamranahmedse/githunt
  - harshjv/github-repo-size
- - sindresorhus/refined-github
+ - refined-github/refined-github
  - softvar/enhanced-github
  - bitoiu/markwrap
  - bitoiu/github-red-alert
@@ -32,11 +32,15 @@ items:
  - StylishThemes/GitHub-Dark
  - xthexder/wide-github
  - berzniz/github_pr_tree
- - n1ck/gifs-for-github
+ - N1ck/gifs-for-github
  - EnixCoda/Gitako
- - vladgolubev/quickreview-for-github
+ - vladholubiev/quickreview-for-github
  - matthizou/github-show-avatars
  - dderevjanik/github-vscode-icons
+ - npmhub/npmhub
+ - octobox/extension
+ - hypertrons/hypertrons-crx
+ - NirmalScaria/le-git-graph
 display_name: GitHub Browser Extensions
 created_by: leereilly
 ---
